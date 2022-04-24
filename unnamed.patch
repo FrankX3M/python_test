@@ -1,0 +1,11 @@
+Index: py_test.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- py_test.py	(revision 9074789f8bfe253494a78a8a54528ac788cd45fe)
++++ py_test.py	(date 1650811923026)
+@@ -1,1 +1,2 @@
+ print("Hellow world!!!")
++print('123_test_123')
+\ No newline at end of file
